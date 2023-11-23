@@ -1,4 +1,4 @@
-# Value at Risk (VaR) is a statistical measure used to quantify the level of financial risk within a portfolio over a specific time frame. 
+Value at Risk (VaR) is a statistical measure used to quantify the level of financial risk within a portfolio over a specific time frame. 
 Different VaR measures provide insights into various aspects of risk, and here are definitions, calculations, and distinctions for the mentioned portfolio VaR measures:
 
 # Individual VaR:
